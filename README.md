@@ -49,6 +49,13 @@
 - Logout functionality
 
 ---
+## screens
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-02-11 at 06 55 06" src="https://github.com/user-attachments/assets/15db50b4-6440-4fe0-a647-e85d540aff4d" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-02-11 at 06 55 18" src="https://github.com/user-attachments/assets/24390351-efbc-4b62-b48e-593f1af01b42" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-02-11 at 06 55 33" src="https://github.com/user-attachments/assets/5e8c414f-8a67-4696-aac3-fd12b5e40a08" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-02-11 at 06 55 52" src="https://github.com/user-attachments/assets/86ab5b9f-4c15-40cf-b962-89903f9d730c" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-02-11 at 06 56 21" src="https://github.com/user-attachments/assets/c7f5bf49-481c-4a8d-9621-4e1826ad8881" />
+
 
 ## Tech Stack
 
